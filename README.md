@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PushkarDesai-06
 - 👀 I’m interested in Solving Real world problems & Learning new things
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me : https://www.linkedin.com/in/pushkar-desai-963843309/
 - 😄 Pronouns: He/Him
 
