@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PushkarDesai-06
+- 👋 Hi, I’m Pushkar Desai
 - 👀 I’m interested in Solving Real world problems & Learning new things
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning ML and Hardware
 - 📫 How to reach me : https://www.linkedin.com/in/pushkar-desai-963843309/
 - 😄 Pronouns: He/Him
 
